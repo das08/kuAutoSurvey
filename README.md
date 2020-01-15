@@ -7,8 +7,6 @@ kuAutoSurvey is a survey automation tool for Kyodai.
 京大の授業アンケートを自動化します。本ツールを実行し、自動回答を行いたい講義番号を入力すると最終確定画面まで自動で回答します。
 
 ***DEMO:***
-
-![Demo](/img/submit.png)
 ```bash
 $ python main.py
 
@@ -21,6 +19,7 @@ $ python main.py
 Type in ID (02 for 2): 
 
 ```
+![Demo](/img/submit.png)
 
 ## Features
 
